@@ -1,0 +1,5 @@
+Q
+Step 1 - Create three variables and store any numerical values to it
+Step 2 - Store the sum of all three variables using '+'
+step 3 - store the result in result variable
+step 4 - log the result
