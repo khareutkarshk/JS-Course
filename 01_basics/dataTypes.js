@@ -10,13 +10,16 @@ let name = "utkarsh" //string
 let age = 18 // number
 let isLoggedIn = true 
 let temperature = null;
+temperature = 30
+
+let id = undefined
 
 
 // number => 2 to the power 53
 // bigint
 // string => " " we defined character in string
 // boolean => true/false
-// null => standalone value
+// null => stand alone value
 // undefined => when value is not defined
 // symbol => unique
 
