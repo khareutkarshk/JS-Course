@@ -12,6 +12,10 @@ let state;
  multi line comment
 */ 
 
+if (condition) {
+    
+}
+
 /*
     Prefer not to use var
     because of issue in block scope and functional scope

@@ -10,9 +10,10 @@ let name = "utkarsh" //string
 let age = 18 // number
 let isLoggedIn = true 
 let temperature = null;
+let score = 0;
 temperature = 30
 
-let id = undefined
+let id
 
 
 // number => 2 to the power 53
@@ -24,3 +25,4 @@ let id = undefined
 // symbol => unique
 
 // object
+// array
